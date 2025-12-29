@@ -108,7 +108,7 @@ Hệ thống hỗ trợ trực tuyến với chat real-time sử dụng Socket.I
 <div align="center">
 
 <!-- GitHub Streak - hiển thị chuỗi commit -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=lethien999&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=lethien999&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600" alt="GitHub Streak" />
 
 </div>
 
@@ -132,7 +132,7 @@ Hệ thống hỗ trợ trực tuyến với chat real-time sử dụng Socket.I
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lethien999&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=lethien999&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
