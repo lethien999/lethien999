@@ -202,22 +202,7 @@ Database:  MongoDB
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%"/>
 </p>
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lethien999&show_icons=true&theme=default&hide_border=true" alt="stats"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethien999&layout=compact&theme=default&hide_border=true" alt="languages"/>
-
-</div>
-
-<!-- Animated Line -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%"/>
-</p>
-
-## 📚 Learning Journey
+##  Learning Journey
 
 <div align="center">
 
@@ -243,43 +228,6 @@ Database:  MongoDB
 | Clean Code - Robert C. Martin | API Design & Best Practices |
 | System Design Interview | Database Optimization |
 | JavaScript: The Good Parts | Security & Authentication |
-
-<!-- Animated Line -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%"/>
-</p>
-
-## 👥 Collaborators & Thanks
-
-<div align="center">
-
-*Những người đã cùng tôi phát triển các dự án:*
-
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/lethien999">
-<img src="https://github.com/lethien999.png" width="80px;" alt="Lê Anh Thiện"/><br />
-<sub><b>Lê Anh Thiện</b></sub>
-</a><br />
-<sub>Owner & Developer</sub>
-</td>
-<!-- Thêm collaborators khác ở đây -->
-<!--
-<td align="center">
-<a href="https://github.com/username">
-<img src="https://github.com/username.png" width="80px;" alt="Name"/><br />
-<sub><b>Name</b></sub>
-</a><br />
-<sub>Role</sub>
-</td>
--->
-</tr>
-</table>
-
-*Nếu bạn muốn contribute vào các project của mình, hãy tạo Pull Request hoặc liên hệ trực tiếp!*
-
-</div>
 
 <!-- Animated Line -->
 <p align="center">
