@@ -128,7 +128,7 @@ const thiện = {
 
 <p align="center">
 <a href="https://github.com/lethien999/student-accommodation-portal">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lethien999&repo=student-accommodation-portal&theme=react&hide_border=true&bg_color=0d1117"/>
+<img src="https://img.shields.io/badge/🔗_Xem_Repository-4776E6?style=for-the-badge" alt="repo"/>
 </a>
 </p>
 
@@ -155,7 +155,7 @@ Auth:      JWT
 
 <p align="center">
 <a href="https://github.com/lethien999/my-live-support-2025">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lethien999&repo=my-live-support-2025&theme=react&hide_border=true&bg_color=0d1117"/>
+<img src="https://img.shields.io/badge/🔗_Xem_Repository-8E54E9?style=for-the-badge" alt="repo"/>
 </a>
 </p>
 
@@ -183,7 +183,7 @@ Database:  MongoDB
 
 <p align="center">
 <a href="https://github.com/lethien999/winforms-shop-fashion">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lethien999&repo=winforms-shop-fashion&theme=react&hide_border=true&bg_color=0d1117"/>
+<img src="https://img.shields.io/badge/🔗_Xem_Repository-28a745?style=for-the-badge" alt="repo"/>
 </a>
 </p>
 
@@ -207,11 +207,8 @@ Database:  MongoDB
 <div align="center">
 
 <!-- GitHub Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lethien999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4776E6&icon_color=8E54E9&text_color=ffffff" alt="stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethien999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4776E6&text_color=ffffff" alt="languages"/>
-
-<!-- Streak Stats -->
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=lethien999&theme=tokyonight&hide_border=true&background=0d1117&ring=4776E6&fire=8E54E9&currStreakLabel=4776E6" alt="streak"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lethien999&show_icons=true&theme=default&hide_border=true" alt="stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethien999&layout=compact&theme=default&hide_border=true" alt="languages"/>
 
 </div>
 
@@ -246,6 +243,43 @@ Database:  MongoDB
 | Clean Code - Robert C. Martin | API Design & Best Practices |
 | System Design Interview | Database Optimization |
 | JavaScript: The Good Parts | Security & Authentication |
+
+<!-- Animated Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%"/>
+</p>
+
+## 👥 Collaborators & Thanks
+
+<div align="center">
+
+*Những người đã cùng tôi phát triển các dự án:*
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/lethien999">
+<img src="https://github.com/lethien999.png" width="80px;" alt="Lê Anh Thiện"/><br />
+<sub><b>Lê Anh Thiện</b></sub>
+</a><br />
+<sub>Owner & Developer</sub>
+</td>
+<!-- Thêm collaborators khác ở đây -->
+<!--
+<td align="center">
+<a href="https://github.com/username">
+<img src="https://github.com/username.png" width="80px;" alt="Name"/><br />
+<sub><b>Name</b></sub>
+</a><br />
+<sub>Role</sub>
+</td>
+-->
+</tr>
+</table>
+
+*Nếu bạn muốn contribute vào các project của mình, hãy tạo Pull Request hoặc liên hệ trực tiếp!*
+
+</div>
 
 <!-- Animated Line -->
 <p align="center">
