@@ -107,9 +107,8 @@ Hệ thống hỗ trợ trực tuyến với chat real-time sử dụng Socket.I
 
 <div align="center">
 
-<!-- Stats đơn giản, không màu mè -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lethien999&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethien999&layout=compact&theme=github_dark&hide_border=true&hide_title=true" />
+<!-- GitHub Streak - hiển thị chuỗi commit -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=lethien999&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
 
 </div>
 
@@ -119,9 +118,9 @@ Hệ thống hỗ trợ trực tuyến với chat real-time sử dụng Socket.I
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lethien999&theme=github-dark-blue&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lethien999&theme=github-compact&hide_border=true&area=true)
+| 📊 Stats | 🏆 Top Languages |
+|:---:|:---:|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=lethien999&show_icons=true&theme=transparent&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethien999&layout=compact&theme=transparent&hide_border=true) |
 
 </div>
 
@@ -129,14 +128,12 @@ Hệ thống hỗ trợ trực tuyến với chat real-time sử dụng Socket.I
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lethien999/lethien999/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lethien999/lethien999/output/github-snake.svg">
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/lethien999/lethien999/output/github-snake.svg">
-  </picture>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lethien999&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
