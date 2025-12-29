@@ -1,59 +1,98 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=100&section=header"/>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:4776E6,100:8E54E9&height=150&section=header&text=Lê%20Anh%20Thiện&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Fullstack%20Developer%20from%20Vietnam%20🇻🇳&descAlignY=75&descSize=18"/>
 
 <div align="center">
 
-# Lê Anh Thiện 👋
+<!-- Animated Typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4776E6&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=%3E+console.log(%22Hello+World!+%F0%9F%91%8B%22);+Welcome+to+my+GitHub...)](https://github.com/lethien999)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4776E6&center=true&vCenter=true&width=435&lines=Fullstack+Developer;JavaScript+%7C+React+%7C+Node.js;Open+to+Work+%F0%9F%9A%80)](https://github.com/lethien999)
-
-<!-- Badges -->
-![Location](https://img.shields.io/badge/📍_Vietnam-4776E6?style=flat)
-![Status](https://img.shields.io/badge/💼_Open_to_Work-28a745?style=flat)
-![Repos](https://img.shields.io/badge/📦_4_Repos-8E54E9?style=flat)
-[![Profile Views](https://komarev.com/ghpvc/?username=lethien999&color=4776E6&style=flat&label=Views)](https://github.com/lethien999)
+<!-- Quick Stats Badges -->
+<p>
+  <a href="https://github.com/lethien999?tab=followers">
+    <img src="https://img.shields.io/github/followers/lethien999?label=Followers&style=social" alt="followers"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=lethien999&color=4776E6&style=flat&label=Profile+Views" alt="views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Fullstack_Web_Dev-8E54E9?style=flat" alt="focus"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_to_Work_💼-28a745?style=flat" alt="status"/>
+</p>
 
 </div>
 
----
+<!-- Animated Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%"/>
+</p>
 
-## 👨‍💻 About Me
+## 🎯 Về tôi
 
-Xin chào! Tôi là **Thiện**, một Fullstack Developer từ Việt Nam.
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6Y2RrOXBtdWV4MnBqYm1qcGpqYnVxcWdtbXBicWtvYXNxb2FtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
 
-```js
-const thien = {
-    code: ["JavaScript", "TypeScript", "C#"],
-    focus: "Building real-world web applications",
-    currentlyLearning: ["System Design", "Clean Architecture"],
-    lookingFor: "Full-time Developer position",
-    funFact: "I mass console.log() and proud of it 😎"
+Xin chào! Mình là **Thiện** - một developer **tự học** đến từ Việt Nam 🇻🇳
+
+Mình tin vào việc **"learning by doing"** - xây dựng các sản phẩm thực tế thay vì chỉ học lý thuyết. Mỗi project là một bài học mới!
+
+```javascript
+const thiện = {
+  😄 pronouns: "He/Him",
+  📍 location: "Vietnam",
+  🎓 education: "IT Student - Self-taught Developer",
+  💼 status: "Seeking Full-time Opportunities",
+  
+  🌟 motto: "Build things that matter",
+  ☕ fuel: "Coffee & Lo-fi music",
+  🐛 debugStyle: "console.log() everywhere 😅"
 };
 ```
 
-**Đang làm gì:**
-- 🔭 Phát triển các dự án Fullstack với React & Node.js
-- 🌱 Học thêm về System Design & Clean Architecture  
-- 💼 Tìm kiếm cơ hội việc làm Full-time
-- 🎯 66 contributions trong năm qua
+<br clear="right"/>
 
----
+### 🔥 Hiện tại mình đang:
 
-## 🛠️ Tech Stack
+| | |
+|:---|:---|
+| 🔭 **Building** | Fullstack projects với React & Node.js |
+| 🌱 **Learning** | System Design, Clean Architecture, Docker |
+| 👀 **Looking for** | Full-time Developer position |
+| 💬 **Ask me about** | JavaScript, React, Node.js, C# |
+| 🎯 **2025 Goals** | Contribute to Open Source, Land a dev job |
+
+<!-- Animated Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%"/>
+</p>
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- Languages with animation effect using table -->
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48"/>
+  <br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48"/>
+  <br><b>TypeScript</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="48" height="48"/>
+  <br><b>C#</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48"/>
+  <br><b>React</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48"/>
+  <br><b>GitHub</b>
+</td>
+</tr>
+</table>
 
 **Backend & Database**
 
@@ -64,104 +103,204 @@ const thien = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**Tools**
+**Tools I Use Daily**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
----
+<!-- Animated Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%"/>
+</p>
 
-## 🚀 Featured Projects
+## 🚀 Projects Showcase
+
+> *"Mỗi project là một câu chuyện, một vấn đề được giải quyết"*
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏠 Student Accommodation Portal
-Web app giúp sinh viên tìm kiếm & quản lý nhà trọ
+<h3 align="center">🏠 Student Accommodation Portal</h3>
 
-**Tech:** `JavaScript` `React` `Node.js` `Express` `MongoDB`
+<p align="center">
+<a href="https://github.com/lethien999/student-accommodation-portal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lethien999&repo=student-accommodation-portal&theme=react&hide_border=true&bg_color=0d1117"/>
+</a>
+</p>
 
-**Features:**
-- ✅ User Authentication
-- ✅ Search & Filter
-- ✅ CRUD Operations
-- ✅ Responsive Design
+**📖 Story:** *Sinh viên tìm nhà trọ rất khó khăn - mình đã xây dựng giải pháp này!*
 
-[![Repo](https://img.shields.io/badge/🔗_Xem_Code-4776E6?style=for-the-badge)](https://github.com/lethien999/student-accommodation-portal)
+**🛠 Tech Stack:**
+```
+Frontend:  React.js
+Backend:   Node.js + Express
+Database:  MongoDB
+Auth:      JWT
+```
+
+**✨ Features:**
+- 🔐 Authentication đầy đủ
+- 🔍 Tìm kiếm & lọc thông minh
+- 📱 Responsive design
+- 💾 CRUD operations
 
 </td>
 <td width="50%">
 
-### 💬 Live Support System 2025
-Hệ thống chat hỗ trợ khách hàng real-time
+<h3 align="center">💬 Live Support System</h3>
 
-**Tech:** `TypeScript` `Socket.IO` `MongoDB` `React`
+<p align="center">
+<a href="https://github.com/lethien999/my-live-support-2025">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lethien999&repo=my-live-support-2025&theme=react&hide_border=true&bg_color=0d1117"/>
+</a>
+</p>
 
-**Features:**
-- ✅ Real-time Chat
-- ✅ Ticket Management
-- ✅ Admin Dashboard
-- ✅ Chat History
+**📖 Story:** *Tại sao khách hàng phải chờ đợi? Real-time là câu trả lời!*
 
-[![Repo](https://img.shields.io/badge/🔗_Xem_Code-8E54E9?style=for-the-badge)](https://github.com/lethien999/my-live-support-2025)
+**🛠 Tech Stack:**
+```
+Frontend:  React + TypeScript  
+Backend:   Node.js + Socket.IO
+Database:  MongoDB
+```
+
+**✨ Features:**
+- ⚡ Chat real-time với Socket.IO
+- 🎫 Ticket management system
+- 👨‍💼 Admin dashboard
+- 📜 Chat history
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-### 👔 Fashion Shop WinForms
-Ứng dụng desktop quản lý shop thời trang đầy đủ tính năng
+<h3 align="center">👔 Fashion Shop Management - Desktop App</h3>
 
-**Tech:** `C#` `WinForms` `.NET` `SQL Server`
+<p align="center">
+<a href="https://github.com/lethien999/winforms-shop-fashion">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lethien999&repo=winforms-shop-fashion&theme=react&hide_border=true&bg_color=0d1117"/>
+</a>
+</p>
 
-**Features:** ✅ Quản lý sản phẩm • ✅ Quản lý đơn hàng • ✅ Quản lý khách hàng • ✅ Báo cáo doanh thu
+**📖 Story:** *Không chỉ web - mình còn xây dựng desktop app với C# để chứng minh versatility!*
 
-[![Repo](https://img.shields.io/badge/🔗_Xem_Code-28a745?style=for-the-badge)](https://github.com/lethien999/winforms-shop-fashion)
+| Tech | Features |
+|------|----------|
+| `C#` `.NET` `WinForms` `SQL Server` | ✅ Quản lý sản phẩm • ✅ Quản lý đơn hàng • ✅ Quản lý khách hàng • ✅ Báo cáo doanh thu |
 
 </td>
 </tr>
 </table>
 
----
+<!-- Animated Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%"/>
+</p>
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lethien999&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethien999&layout=compact&theme=default&hide_border=true"/>
+<!-- GitHub Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lethien999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4776E6&icon_color=8E54E9&text_color=ffffff" alt="stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethien999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4776E6&text_color=ffffff" alt="languages"/>
+
+<!-- Streak Stats -->
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=lethien999&theme=tokyonight&hide_border=true&background=0d1117&ring=4776E6&fire=8E54E9&currStreakLabel=4776E6" alt="streak"/>
 
 </div>
 
----
+<!-- Animated Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%"/>
+</p>
 
-## 📫 Contact Me
+## 📚 Learning Journey
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-lethien19092001@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lethien19092001@gmail.com)
+```
+🎯 ROADMAP 2025
+================
+
+[✅ DONE]        [🔄 IN PROGRESS]        [📋 PLANNED]
+    │                    │                     │
+    ▼                    ▼                     ▼
+┌─────────┐        ┌───────────┐        ┌───────────┐
+│  React  │        │  System   │        │  Docker   │
+│ Node.js │        │  Design   │        │   K8s     │
+│ MongoDB │        │  Clean    │        │   AWS     │
+│   C#    │        │   Arch    │        │  CI/CD    │
+└─────────┘        └───────────┘        └───────────┘
+```
+
+</div>
+
+| 📘 Currently Reading | 🎯 Focus Areas |
+|---------------------|----------------|
+| Clean Code - Robert C. Martin | API Design & Best Practices |
+| System Design Interview | Database Optimization |
+| JavaScript: The Good Parts | Security & Authentication |
+
+<!-- Animated Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%"/>
+</p>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+*Mình luôn sẵn sàng kết nối với các developer khác, thảo luận về tech, hoặc cơ hội việc làm!*
+
+[![Gmail](https://img.shields.io/badge/Gmail-lethien19092001@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lethien19092001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lethien999-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lethien999)
 [![Facebook](https://img.shields.io/badge/Facebook-le.thien.236860-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/le.thien.236860)
+[![Instagram](https://img.shields.io/badge/Instagram-moose.0919-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moose.0919/)
+
+<br>
+
+<!-- Fun ASCII Box -->
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   💡 "The best way to predict the future is to create it."      ║
+║                                                                  ║
+║   📧 Email me for:                                               ║
+║      • Job opportunities                                         ║
+║      • Collaboration on projects                                 ║
+║      • Just to say hi! 👋                                        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
----
+<!-- Animated Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%"/>
+</p>
 
 <div align="center">
 
-### ⭐ Cảm ơn bạn đã ghé thăm!
+### ⭐ Thanks for visiting!
 
-*Nếu thấy project nào hay, cho mình xin star nhé!*
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em>I love connecting with people, so feel free to say <b>hi</b>!</em>
 
-**Made with ❤️ in Vietnam**
+**If you find my projects interesting, please consider giving them a ⭐**
+
+---
+
+<sub>🇻🇳 Made with ❤️ and mass console.log() | © 2025 Lê Anh Thiện</sub>
 
 </div>
 
-<!-- Footer -->
+<!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=100&section=footer"/>
