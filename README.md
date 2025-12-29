@@ -12,8 +12,6 @@
     <img src="https://img.shields.io/github/followers/lethien999?label=Followers&style=social" alt="followers"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=lethien999&color=4776E6&style=flat&label=Profile+Views" alt="views"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Focus-Fullstack_Web_Dev-8E54E9?style=flat" alt="focus"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open_to_Work_💼-28a745?style=flat" alt="status"/>
