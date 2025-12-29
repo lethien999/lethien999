@@ -28,7 +28,7 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6Y2RrOXBtdWV4MnBqYm1qcGpqYnVxcWdtbXBicWtvYXNxb2FtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
 
-Xin chào! Mình là **Thiện** - sinh viên ngành **Kỹ sư Công nghệ phần mềm** tại **Trường Đại học Công nghệ TP.HCM (HUTECH)** 🇻🇳
+Xin chào! Mình là **Thiện** - sinh viên ngành **Công nghệ thông tin** chuyên ngành **Công nghệ phần mềm** tại **Trường Đại học Công nghệ TP.HCM (HUTECH)** 🇻🇳
 
 Mình tin vào việc **"learning by doing"** - xây dựng các sản phẩm thực tế thay vì chỉ học lý thuyết. Mỗi project là một bài học mới!
 
@@ -36,7 +36,7 @@ Mình tin vào việc **"learning by doing"** - xây dựng các sản phẩm th
 const thiện = {
   😄 pronouns: "He/Him",
   📍 location: "Ho Chi Minh City, Vietnam",
-  🎓 education: "Software Engineering @ HUTECH",
+  🎓 education: "IT - Software Engineering @ HUTECH",
   💼 status: "Seeking Full-time Opportunities",
   
   🌟 motto: "Build things that matter",
