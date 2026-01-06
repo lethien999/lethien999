@@ -115,10 +115,12 @@ Mình tin vào việc **"learning by doing"** - xây dựng các sản phẩm th
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lethien999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethien999&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/lethien999">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lethien999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lethien999&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lethien999&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=4776E6&fire=8E54E9&currStreakLabel=4776E6"/>
+<img width="100%" src="https://streak-stats.demolab.com/?user=lethien999&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=4776E6&fire=8E54E9&currStreakLabel=4776E6"/>
 
 <!-- GitHub Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lethien999&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4776E6&line=8E54E9&point=FFFFFF"/>
