@@ -32,18 +32,13 @@ Xin chào! Mình là **Thiện** - sinh viên ngành **Công nghệ thông tin**
 
 Mình tin vào việc **"learning by doing"** - xây dựng các sản phẩm thực tế thay vì chỉ học lý thuyết. Mỗi project là một bài học mới!
 
-```javascript
-const thiện = {
-  😄 pronouns: "He/Him",
-  📍 location: "Ho Chi Minh City, Vietnam",
-  🎓 education: "IT - Software Engineering @ HUTECH",
-  💼 status: "Seeking Full-time Opportunities",
-  
-  🌟 motto: "Build things that matter",
-  ☕ fuel: "Coffee & Lo-fi music",
-  🐛 debugStyle: "console.log() everywhere 😅"
-};
-```
+- 😄 **Pronouns:** He/Him
+- 📍 **Location:** Ho Chi Minh City, Vietnam
+- 🎓 **Education:** IT - Software Engineering @ HUTECH
+- 💼 **Status:** Seeking Full-time Opportunities
+- 🌟 **Motto:** Build things that matter
+- ☕ **Fuel:** Coffee & Lo-fi music
+- 🐛 **Debug Style:** console.log() everywhere 😅
 
 <br clear="right"/>
 
@@ -55,7 +50,7 @@ const thiện = {
 | 🌱 **Learning** | System Design, Clean Architecture, Docker |
 | 👀 **Looking for** | Full-time Developer position |
 | 💬 **Ask me about** | JavaScript, React, Node.js, C# |
-| 🎯 **2025 Goals** | Contribute to Open Source, Land a dev job |
+| 🎯 **2026 Goals** | Contribute to Open Source, Land a dev job |
 
 <!-- Animated Line -->
 <p align="center">
@@ -108,6 +103,35 @@ const thiện = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<!-- Animated Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%"/>
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lethien999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethien999&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lethien999&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=4776E6&fire=8E54E9&currStreakLabel=4776E6"/>
+
+<!-- GitHub Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lethien999&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4776E6&line=8E54E9&point=FFFFFF"/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=lethien999&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lethien999/lethien999/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lethien999/lethien999/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lethien999/lethien999/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -207,7 +231,7 @@ Database:  MongoDB
 <div align="center">
 
 ```
-🎯 ROADMAP 2025
+🎯 ROADMAP 2026
 ================
 
 [✅ DONE]        [🔄 IN PROGRESS]        [📋 PLANNED]
@@ -278,7 +302,7 @@ Database:  MongoDB
 
 ---
 
-<sub>🇻🇳 Made with ❤️ and mass console.log() | © 2025 Lê Anh Thiện</sub>
+<sub>🇻🇳 Made with ❤️ and mass console.log() | © 2026 Lê Anh Thiện</sub>
 
 </div>
 
