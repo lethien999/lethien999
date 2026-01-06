@@ -125,9 +125,6 @@ Mình tin vào việc **"learning by doing"** - xây dựng các sản phẩm th
 <!-- GitHub Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lethien999&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4776E6&line=8E54E9&point=FFFFFF"/>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=lethien999&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=6"/>
-
 <!-- Snake Animation -->
 <img alt="github-snake" src="https://raw.githubusercontent.com/lethien999/lethien999/output/github-snake-dark.svg" />
 
