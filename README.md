@@ -137,6 +137,45 @@ Mình tin vào việc **"learning by doing"** - xây dựng các sản phẩm th
 
 > *"Mỗi project là một câu chuyện, một vấn đề được giải quyết"*
 
+### ⭐ Featured Project
+
+<table>
+<tr>
+<td>
+
+<h3 align="center">👔 Fashion Shop Management - Desktop App</h3>
+
+<p align="center">
+<a href="https://github.com/lethien999/winforms-shop-fashion">
+<img src="https://img.shields.io/badge/🔗_Xem_Repository-28a745?style=for-the-badge" alt="repo"/>
+</a>
+<img src="https://img.shields.io/badge/⭐_Best_Project-FFD700?style=for-the-badge" alt="best"/>
+</p>
+
+**📖 Story:** *Đây là project hoàn thiện nhất mà mình từng làm! Một ứng dụng desktop quản lý cửa hàng thời trang với đầy đủ tính năng từ A-Z.*
+
+**🛠 Tech Stack:**
+```
+Platform:  Windows Desktop
+Language:  C# (.NET Framework)
+UI:        WinForms
+Database:  SQL Server
+Pattern:   3-Layer Architecture
+```
+
+**✨ Features:**
+| Quản lý | Báo cáo | Khác |
+|---------|---------|------|
+| ✅ Sản phẩm & Danh mục | ✅ Doanh thu theo ngày/tháng | ✅ Phân quyền người dùng |
+| ✅ Đơn hàng & Hóa đơn | ✅ Thống kê bán hàng | ✅ Tìm kiếm & Lọc |
+| ✅ Khách hàng & Nhân viên | ✅ Xuất báo cáo Excel | ✅ Giao diện thân thiện |
+
+</td>
+</tr>
+</table>
+
+### 💻 Other Projects
+
 <table>
 <tr>
 <td width="50%">
@@ -190,25 +229,6 @@ Database:  MongoDB
 - 🎫 Ticket management system
 - 👨‍💼 Admin dashboard
 - 📜 Chat history
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-<h3 align="center">👔 Fashion Shop Management - Desktop App</h3>
-
-<p align="center">
-<a href="https://github.com/lethien999/winforms-shop-fashion">
-<img src="https://img.shields.io/badge/🔗_Xem_Repository-28a745?style=for-the-badge" alt="repo"/>
-</a>
-</p>
-
-**📖 Story:** *Không chỉ web - mình còn xây dựng desktop app với C# để chứng minh versatility!*
-
-| Tech | Features |
-|------|----------|
-| `C#` `.NET` `WinForms` `SQL Server` | ✅ Quản lý sản phẩm • ✅ Quản lý đơn hàng • ✅ Quản lý khách hàng • ✅ Báo cáo doanh thu |
 
 </td>
 </tr>
