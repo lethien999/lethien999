@@ -61,7 +61,7 @@ Mình tin vào việc **"learning by doing"** - xây dựng các sản phẩm th
 
 <div align="center">
 
-<!-- Languages with animation effect using table -->
+<!-- Languages -->
 <table>
 <tr>
 <td align="center" width="96">
@@ -77,32 +77,42 @@ Mình tin vào việc **"learning by doing"** - xây dựng các sản phẩm th
   <br><b>C#</b>
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48"/>
-  <br><b>React</b>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48"/>
+  <br><b>Python</b>
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48"/>
-  <br><b>GitHub</b>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48"/>
+  <br><b>PHP</b>
 </td>
 </tr>
 </table>
 
-**Backend & Database**
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Backend & Framework**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**Tools I Use Daily**
+**Database**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Tools & DevOps**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
