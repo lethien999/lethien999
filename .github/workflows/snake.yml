@@ -29,8 +29,7 @@ jobs:
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
-          cd dist
-          git init
-          git add -A
-          git commit -m "🐍 Update snake animation"
-          git push -f https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/lethien999/lethien999.git HEAD:output
+          git checkout --orphan output
+          git --work-tree=dist add --all
+          git --work-tree=dist commit -m "🐍 Update snake animation"
+          git push -f https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/lethien999/lethien999.git output
