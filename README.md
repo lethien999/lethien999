@@ -120,8 +120,6 @@ Mình tin vào việc **"learning by doing"** - xây dựng các sản phẩm th
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lethien999&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=lethien999&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=4776E6&fire=8E54E9&currStreakLabel=4776E6"/>
-
 <!-- GitHub Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lethien999&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4776E6&line=8E54E9&point=FFFFFF"/>
 
