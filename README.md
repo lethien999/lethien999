@@ -239,38 +239,6 @@ Database:  MongoDB
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%"/>
 </p>
 
-##  Learning Journey
-
-<div align="center">
-
-```
-🎯 ROADMAP 2026
-================
-
-[✅ DONE]        [🔄 IN PROGRESS]        [📋 PLANNED]
-    │                    │                     │
-    ▼                    ▼                     ▼
-┌─────────┐        ┌───────────┐        ┌───────────┐
-│  React  │        │  System   │        │  Docker   │
-│ Node.js │        │  Design   │        │   K8s     │
-│ MongoDB │        │  Clean    │        │   AWS     │
-│   C#    │        │   Arch    │        │  CI/CD    │
-└─────────┘        └───────────┘        └───────────┘
-```
-
-</div>
-
-| 📘 Currently Reading | 🎯 Focus Areas |
-|---------------------|----------------|
-| Clean Code - Robert C. Martin | API Design & Best Practices |
-| System Design Interview | Database Optimization |
-| JavaScript: The Good Parts | Security & Authentication |
-
-<!-- Animated Line -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%"/>
-</p>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
