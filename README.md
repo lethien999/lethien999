@@ -38,7 +38,6 @@ Mình tin vào việc **"learning by doing"** - xây dựng các sản phẩm th
 - 💼 **Status:** Seeking Full-time Opportunities
 - 🌟 **Motto:** Build things that matter
 - ☕ **Fuel:** Coffee & Lo-fi music
-- 🐛 **Debug Style:** console.log() everywhere 😅
 
 <br clear="right"/>
 
